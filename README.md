@@ -5,7 +5,7 @@ Synergy Simple Comments
 Установка
 =======
 
-    gem 'synergy_simple_comments', :git => 'git@github.com:GarPit/synergy_simple_comments.git'
+    gem 'synergy_simple_comments', :git => 'git@github.com:webgradus/synergy_simple_comments.git'
 Bundle:
 
     bundle install
